@@ -11,8 +11,8 @@ const talks = [
   },
   {
     url: "/images/talk2.jpg",
-    title: "Data Science Conference",
-    description: "Panel discussion on predictive analytics"
+    title: "Career guidance",
+    description: "Panel discussion on soft skills"
   },
   {
     url: "/images/talk3.jpg",
@@ -50,7 +50,7 @@ const TalksSection = () => {
         <p className="text-center text-lg text-gray-300 mb-12 max-w-3xl mx-auto">
           Sharing knowledge and insights at industry conferences and events
         </p>
-        
+
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
           {talks.map((talk, index) => (
             <div key={index} className="overflow-hidden rounded-lg group relative">
@@ -70,7 +70,7 @@ const TalksSection = () => {
             </div>
           ))}
         </div>
-        
+
         <div className="text-center mt-12">
           <a href="#" className="inline-flex items-center text-accent hover:text-accent/90 transition-colors">
             View more speaking engagements <ArrowRight className="ml-2 h-4 w-4" />

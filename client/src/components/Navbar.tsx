@@ -28,7 +28,7 @@ const Navbar = () => {
     <header className={`fixed w-full bg-white/90 backdrop-blur-sm z-50 border-b border-gray-100 transition-all duration-300 ${isScrolled ? 'shadow-sm' : ''}`}>
       <div className="container mx-auto px-6 py-4 flex justify-between items-center">
         <a href="#" className="text-xl font-bold text-primary flex items-center gap-2">
-          <span className="text-accent">S</span>rikanth Murali
+          Srikanth <span className="text-accent">Murali</span>
         </a>
         
         <nav className="hidden md:flex space-x-8">

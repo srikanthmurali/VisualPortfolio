@@ -4,7 +4,7 @@ import AboutSection from '@/components/AboutSection';
 import ExperienceSection from '@/components/ExperienceSection';
 import ResearchSection from '@/components/ResearchSection';
 import SkillsSection from '@/components/SkillsSection';
-import PhotographySection from '@/components/PhotographySection';
+import TalksSection from '@/components/TalksSection';
 import ContactSection from '@/components/ContactSection';
 import Footer from '@/components/Footer';
 import { Helmet } from 'react-helmet';
@@ -26,7 +26,7 @@ const Home = () => {
       <ExperienceSection />
       <ResearchSection />
       <SkillsSection />
-      <PhotographySection />
+      <TalksSection />
       <ContactSection />
       <Footer />
     </>

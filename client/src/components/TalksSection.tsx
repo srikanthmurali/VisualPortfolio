@@ -6,8 +6,8 @@ import { ArrowRight } from 'lucide-react';
 const talks = [
   {
     url: "/images/talk1.jpg",
-    title: "Industry Innovation Summit",
-    description: "Presenting on AI trends in manufacturing"
+    title: "Leadership building",
+    description: "Personal journey inspiration talks"
   },
   {
     url: "/images/talk2.jpg",

@@ -4,7 +4,7 @@ import AboutSection from '@/components/AboutSection';
 import ExperienceSection from '@/components/ExperienceSection';
 import ResearchSection from '@/components/ResearchSection';
 import SkillsSection from '@/components/SkillsSection';
-import TalksSection from '@/components/PhotographySection';
+import PhotographySection from '@/components/PhotographySection';
 import ContactSection from '@/components/ContactSection';
 import Footer from '@/components/Footer';
 import { Helmet } from 'react-helmet';

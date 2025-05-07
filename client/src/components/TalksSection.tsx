@@ -15,11 +15,6 @@ const talks = [
     description: "Panel discussion on soft skills"
   },
   {
-    url: "/images/talk3.jpg",
-    title: "Tech Leadership Forum",
-    description: "Keynote on industrial automation"
-  },
-  {
     url: "/images/talk4.jpg",
     title: "AI Innovation Workshop",
     description: "Leading session on machine learning applications"
@@ -28,11 +23,6 @@ const talks = [
     url: "/images/talk5.jpg",
     title: "Global Tech Summit",
     description: "Speaking on digital transformation"
-  },
-  {
-    url: "/images/talk6.jpg",
-    title: "Industry 4.0 Conference",
-    description: "Presenting research findings"
   }
 ];
 

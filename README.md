@@ -16,7 +16,7 @@ A dynamic and responsive visual portfolio web application developed using Replit
 
 ## 📸 Screenshots
 
-![Home Page](srikanthmurali3/VisualPortfolio/Homepage.png)
+![Home Page](Homepage.png)
 ![Portfolio Section](srikanthmurali3/VisualPortfolio/Visual_Portfolio_Demo.mov)
 
 ## 📚 Getting Started

@@ -37,12 +37,13 @@ A dynamic and responsive visual portfolio web application developed using Replit
 
    npm start
 
-🤝 Contributing
+## 🤝 Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
 
-📄 License
+## 📄 License
 
 This project is licensed under the MIT License.
+
 
 

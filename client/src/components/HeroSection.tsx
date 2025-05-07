@@ -45,9 +45,9 @@ const HeroSection = () => {
             transition={{ duration: 0.6, delay: 0.3 }}
           >
             <img 
-              src="https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=800&h=800" 
+              src="/images/profile-photo.png" 
               alt="Srikanth Murali - Data Scientist" 
-              className="w-full h-auto rounded-xl shadow-xl object-cover aspect-square"
+              className="w-full h-auto rounded-xl shadow-xl object-cover"
             />
             <div className="absolute -bottom-6 -right-6 bg-white p-6 rounded-lg shadow-lg max-w-xs hidden lg:block">
               <p className="text-lg font-semibold mb-2">7+ years of experience</p>

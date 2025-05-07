@@ -15,9 +15,9 @@ const AboutSection = () => {
         <div className="flex flex-col lg:flex-row gap-12 items-center">
           <div className="lg:w-2/5">
             <img 
-              src="https://images.unsplash.com/photo-1557804506-669a67965ba0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&h=1032" 
-              alt="Srikanth Murali speaking at a conference" 
-              className="w-full h-auto rounded-xl shadow-lg object-cover aspect-[3/4]"
+              src="/images/profile-photo.png" 
+              alt="Srikanth Murali - Professional Portrait" 
+              className="w-full h-auto rounded-xl shadow-lg object-cover"
             />
           </div>
           <div className="lg:w-3/5">

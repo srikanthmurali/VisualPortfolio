@@ -1,0 +1,63 @@
+ Contact
+srikanthmurali3@gmail.com www.linkedin.com/in/
+srikanthmurali3 (LinkedIn)
+Top Skills
+Storytelling Statistical Modeling Big Data Analytics
+Languages
+English (Full Professional) Sanskrit (Elementary)
+Tamil (Native or Bilingual) Kannada (Native or Bilingual) Hindi (Elementary)
+Certifications
+Generative AI Intro
+Machine Learning A-Z: Hands-on Python & R in Data Science
+Fundamentals of IoT Development with ThingWorx
+Distributed Storage and Processing Fundamentals
+Time Series Forecasting: FB Prophet
+Honors-Awards
+Predictive Analytics (Innovation)
+Publications
+Image denoising based on weighted Regularized Least Squares
+Tamil Speech Emotion Recognition Using Deep Belief Network(DBN)
+Intelligent Analytics for Factory Energy Efficiency
+Word Embedding Models for Finding Semantic Relationship between Words in Tamil Language
+Srikanth Murali
+Data Scientist | Storyteller | I generate business value using data science for Industry4.0 | Artificial Intelligence Researcher | Public Speaker
+Coimbatore, Tamil Nadu, India
+Summary
+Srikanth Murali | Data Scientist | Research Author | IoT Analytics | Manufacturing Tech
+Turning numbers into knowledge, and skeptics into believers — one algorithm at a time.
+I’m a Data Scientist with 7+ years of experience building data-driven solutions across industry verticals like HVAC, Defense, Renewable Energy, and currently into process and discrete Manufacturing. I specialize in machine health monitoring, OEE analytics, and IoT- based predictive maintenance.
+I’ve authored research papers in Speech, Image, Text, and Energy Analytics — https://shorturl.at/SvT8D — and enjoy translating complex data into real-world impact.
+What I bring to the table:
+Expertise in Python, Power BI, SQL
+Strong foundation in machine learning, pattern recognition, anomaly detection, and time-series forecasting
+Practical knowledge of Classification & Regression algorithms, LSTM models, and statistical tools like ROC curves, hypothesis testing, and control charts
+Passion for self-help and spiritual learning, which keeps me grounded and purpose-driven
+Tools & Libraries: Pandas, NumPy, Sci-Kit Learn, TensorFlow, OpenCV, Seaborn, Hadoop (basics), Linux CLI
+Key Techniques: Linear/Logistic Regression, LSTM, KNN, RMSE, CAPA, A/B testing, Heatmaps, Boxplots
+Page 1 of 3
+
+ I'm based in Coimbatore and open to collaborations, research discussions, or solving exciting problems with data. Let’s connect and create value!
+Experience
+Petrus Technologies
+Data Scientist
+May 2022 - Present (3 years 1 month) Coimbatore, Tamil Nadu, India
+I am an R&D professional responsible for creating PoCs and coordinating teams to build MVPs in various sectors, including Ring frame & Speed
+frame optimization for Spinning machines, Customer analytics for Advance Technology center, and Textile manufacturing division of LMW. I have built data mining frameworks, created system design documents, and collaborated with customers to define KPIs for modules such as Production analytics, Cost analytics.
+Maxbyte Technologies 4 years 8 months
+Data Analyst
+April 2020 - May 2022 (2 years 2 months) Coimbatore, Tamil Nadu, India
+Worked on different industry verticals namely HVAC, Defense, Energy & Utilities, and Renewable energy for a data-driven solution by taking ownership for the project by conducting Stand-up meetings to achieve FTRs, and On- time deliveries. Also, created systematic Issue trackers and built Client relationships by appropriate reporting of progress/show stoppers through minimal supervision and also thoroughness towards the intermediate challenges by thinking analytically and adding Ad-hoc tasks to balance the work under pressure scenarios. Additionally, tracking them in Teamwork for the Project manager to have visibility as well. 100+ emails/week sent to the internal team communication updates for keeping everyone on the same page and achieving customer satisfaction.
+Data Science Technologist
+October 2017 - April 2020 (2 years 7 months) Coimbatore Area, India
+Research various data-driven solution and technologies to understand the potentials of Artificial Intelligence in Manufacturing Industry using Internet
+ Page 2 of 3
+
+ Of Things (IoT) data and published research paper in Energy analytics implemented for a HVAC industry before various industry corporate heads gathered to discuss market trends conducted in IISC Bangalore to promote the IoT and data driven solutions of the organization. Also, wrote data science blogs to promote the organization in social media and conducted data science workshop for the college students to find potential candidates for internship and promote the organization as well.
+Amrita Vishwa Vidyapeetham, Coimbatore M.tech in Computation engineering and networking June 2015 - July 2017 (2 years 2 months)
+Coimbatore Area, India
+Concentrated on areas like Text processing, Image Processing, Natural language processing, and Speech recognition models. Read around 10 to 20 research papers on a weekly basis and review the existing techniques and methodologies. Published three research papers during this period.
+Education
+Amrita Vishwa Vidyapeetham, Coimbatore
+Engineer's Degree, Electronics and Communications Engineering · (May 2011 - May 2015)
+G.Ramaswamy Naidu Matric Higher Sec School High School, physics,chemistry,Mathematics and Computer Science · (2007 - 2010)
+ Page 3 of 3

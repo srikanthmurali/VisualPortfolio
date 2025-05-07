@@ -32,6 +32,10 @@ A dynamic and responsive visual portfolio web application developed using Replit
 3. Install dependencies:
 
    npm install
+   
+4. Run the application:
+
+   npm start
 
 🤝 Contributing
 
@@ -40,11 +44,5 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 📄 License
 
 This project is licensed under the MIT License.
-
-
-   
-5. Run the application:
-
-   npm start
 
 

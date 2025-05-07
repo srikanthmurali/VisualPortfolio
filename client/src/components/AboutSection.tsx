@@ -15,8 +15,8 @@ const AboutSection = () => {
         <div className="flex flex-col lg:flex-row gap-12 items-center">
           <div className="lg:w-2/5">
             <img 
-              src="/images/profile-photo.png" 
-              alt="Srikanth Murali - Professional Portrait" 
+              src="/images/i4am-about.jpg" 
+              alt="Srikanth Murali speaking at I-4AM event" 
               className="w-full h-auto rounded-xl shadow-lg object-cover"
             />
           </div>

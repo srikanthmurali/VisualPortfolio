@@ -3,25 +3,25 @@ export const publications = [
     title: "Image denoising based on weighted Regularized Least Squares",
     description: "Research on advanced techniques for image processing and noise reduction using regularized least squares algorithms.",
     category: "Image Processing",
-    link: "#"
+    link: "https://scholar.google.com/citations?user=VDGMmDYAAAAJ&hl=en&oi=sra"
   },
   {
     title: "Tamil Speech Emotion Recognition Using Deep Belief Network (DBN)",
     description: "Implementation of deep learning techniques for emotion recognition in Tamil language speech patterns.",
     category: "Speech Recognition",
-    link: "#"
+    link: "https://scholar.google.com/citations?user=VDGMmDYAAAAJ&hl=en&oi=sra"
   },
   {
     title: "Intelligent Analytics for Factory Energy Efficiency",
     description: "Leveraging data analytics to optimize energy consumption in manufacturing facilities with IoT integration.",
     category: "Energy Analytics",
-    link: "#"
+    link: "https://scholar.google.com/citations?user=VDGMmDYAAAAJ&hl=en&oi=sra"
   },
   {
     title: "Word Embedding Models for Finding Semantic Relationship between Words in Tamil Language",
     description: "Development of natural language processing techniques for semantic analysis in Tamil language.",
     category: "NLP",
-    link: "#"
+    link: "https://scholar.google.com/citations?user=VDGMmDYAAAAJ&hl=en&oi=sra"
   }
 ];
 
